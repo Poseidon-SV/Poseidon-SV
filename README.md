@@ -12,7 +12,7 @@
 - 📫 How to reach me: 20shubh01@gmail.com -->
 <h1 align="center">Hi there , Shubham Verma this side <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="35px"></h1>
 
-<h2 align="center">A Software Developer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Software Developer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"></h2>
 <!-- https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif  Laptop code-->
 <!-- https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif  </> -->
 <!-- https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif  Code Lapy swap-->
