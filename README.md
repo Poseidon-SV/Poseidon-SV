@@ -51,3 +51,10 @@
 <!-- <img align="left" src='https://github-readme-stats.vercel.app/api?username=Poseidon-SV&show_icons=true&theme=radical&count_private=true'/> -->
 
 <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&hide=tex%2B%2B,tex&layout=compact&theme=dark'/>
+
+<!-- <a>
+🏆 GitHub Trophies
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Poseidon-SV&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+
