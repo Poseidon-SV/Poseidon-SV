@@ -23,6 +23,13 @@
 - 👨🏽‍💻 I’m a passionate programmer
 - 💪 Continously focus on enhancing my development skills
 
+<h2> Co-lead at HackMoreish </h2>
+<h3> 🌐Do visit our site HackMoreish : </h3>
+ <a href="https://www.hackmoreish.tk/"> 
+     <img src="https://media.giphy.com/media/xoTTXngANA307e7e4y/giphy.gif" width="60px"/> 
+  </a>&nbsp;&nbsp;
+
+
 <h3>🔗 Connect with Me</h3>
 <a href="https://www.linkedin.com/in/shubham-verma-72b52a217">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
