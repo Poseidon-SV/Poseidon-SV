@@ -60,4 +60,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Poseidon-SV&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&hide=tex%2B%2B,tex&layout=compact&theme=dark'/>
+<!-- <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&hide=tex%2B%2B,tex&layout=compact&theme=dark'/>
+<br> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&layout=compact&theme=dark)](https://github.com/Poseidon-SV/github-readme-stats)
