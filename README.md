@@ -47,9 +47,74 @@
 <h3>💻 My workspace</h3>
 
 <!-- ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/framework-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=6aa6f8) ![](https://img.shields.io/static/v1?logo=html5&label=Markup&message=HTML5&color=6aa6f8&logoColor=white) ![](https://img.shields.io/static/v1?logo=css3&label=Styling&message=CSS3&color=6aa6f8&logoColor=white) ![](https://img.shields.io/static/v1?logo=sass&label=CSS%20Pre-Processor&message=SASS&color=6aa6f8&logoColor=white) ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)  -->
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3670A0) ![](https://img.shields.io/static/v1?logo=html5&label=Markup&message=HTML5&color=FFA500&logoColor=white) ![](https://img.shields.io/static/v1?logo=css3&label=Styling&message=CSS&color=6aa6f8&logoColor=white) ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c&logoColor=white&color=0047AB) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=5C2D91) ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=008000) ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000) ![](https://img.shields.io/badge/Developer-PyGame-informational?style=flat&logo=nintendo-switch&logoColor=white&color=32CD32)
-<!-- <img align="left" src='https://github-readme-stats.vercel.app/api?username=Poseidon-SV&show_icons=true&theme=radical&count_private=true'/> -->
 
+<!-- https://github.com/Ileriayo/markdown-badges#badges -->
+<!--
+![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=0078D6) 
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=5C2D91) 
+![](https://img.shields.io/badge/Editor-Android_Studios-informational?style=flat&logo=android-studio&logoColor=white&color=green)
+![](https://img.shields.io/badge/Editor-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=darkred)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=green) 
+
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3670A0) 
+![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-GDscript-informational?style=flat&logo=godot-engine&logoColor=white&color=3670A0)
+![](https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=Octave&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c&logoColor=white&color=0047AB)
+![](https://img.shields.io/static/v1?logo=html5&label=Markup&message=HTML5&color=FFA500&logoColor=white) 
+![](https://img.shields.io/static/v1?logo=css3&label=Styling&message=CSS&color=6aa6f8&logoColor=white)  
+
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=3670A0)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000) 
+
+![](https://img.shields.io/badge/Machine_Learning-Scikit_learn-%23D00000.svg?style=flat&logo=scikit-learn&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Machine_Learning-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=darkorange)
+![](https://img.shields.io/badge/Machine_Learning-NumPy-%23D00000.svg?style=flat&logo=numpy&logoColor=white&color=0047AB)
+
+![](https://img.shields.io/badge/Game_Engine-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=white)
+![](https://img.shields.io/badge/Developer-PyGame-informational?style=flat&logo=nintendo-switch&logoColor=white&color=32CD32)
+-->
+
+![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=0078D6) 
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=5C2D91) 
+![](https://img.shields.io/badge/Android_Studios-informational?style=flat&logo=android-studio&logoColor=white&color=green)
+![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=darkred)
+![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=green) 
+
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3670A0) 
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/GDscript-informational?style=flat&logo=godot-engine&logoColor=white&color=3670A0)
+![](https://img.shields.io/badge/MATLAB-informational?style=flat&logo=Octave&logoColor=white&color=orange)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=c&logoColor=white&color=0047AB)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=3670A0)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=000000) 
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=darkblue)
+
+![](https://img.shields.io/badge/Machine_Learning-Scikit_learn-%23D00000.svg?style=flat&logo=scikit-learn&logoColor=white&color=orange)
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=darkorange)
+![](https://img.shields.io/badge/NumPy-%23D00000.svg?style=flat&logo=numpy&logoColor=white&color=0047AB)
+
+![](https://img.shields.io/badge/Game_Engine-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=white)
+![](https://img.shields.io/badge/Developer-PyGame-informational?style=flat&logo=nintendo-switch&logoColor=white&color=32CD32)
+
+<h3>🎮 My Game</h3>
+
+<a href="https://shubham-verma-sv.itch.io/level-industry-by-sv-games">
+
+![icon](https://user-images.githubusercontent.com/87477923/180500282-a2f90295-5dc0-492f-b24a-06505d385ab4.png)
+
+  </a>&nbsp;&nbsp;
+  
+  
+<!-- <img align="left" src='https://github-readme-stats.vercel.app/api?username=Poseidon-SV&show_icons=true&theme=radical&count_private=true'/> -->
 <h3> 📈 GitHub Stats</h3>
 
 <h3>
