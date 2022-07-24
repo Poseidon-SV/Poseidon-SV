@@ -100,7 +100,8 @@
 
 ![](https://img.shields.io/badge/Machine_Learning-Scikit_learn-%23D00000.svg?style=flat&logo=scikit-learn&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=darkorange)
-![](https://img.shields.io/badge/NumPy-%23D00000.svg?style=flat&logo=numpy&logoColor=white&color=0047AB)
+![](https://img.shields.io/badge/NumPy-svg?style=flat&logo=numpy&logoColor=white&color=0047AB)
+![](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ![](https://img.shields.io/badge/Game_Engine-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Developer-PyGame-informational?style=flat&logo=nintendo-switch&logoColor=white&color=32CD32)
