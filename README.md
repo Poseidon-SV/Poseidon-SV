@@ -23,10 +23,10 @@
 - 👨🏽‍💻 I’m a passionate programmer
 - 💪 Continously focus on enhancing my development skills
 
-<h2> Co-lead at HackMoreish </h2>
-<h3>🌐 Do visit our site HackMoreish : </h3>
- <a href="https://www.hackmoreish.tk/"> 
-     <img src="https://media.giphy.com/media/xoTTXngANA307e7e4y/giphy.gif" width="60px"/> 
+<!-- <h2> Co-lead at HackMoreish </h2> -->
+<h3>🌐 Do visit My Portfolio site (click)  </h3>
+ <a href="https://poseidon-sv.github.io/Portfolio/"> 
+   <img src="https://media.giphy.com/media/4dsupRFik2Soh5tqed/giphy.gif" width="70px"/>
   </a>&nbsp;&nbsp;
 
 
@@ -89,6 +89,7 @@
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/GDscript-informational?style=flat&logo=godot-engine&logoColor=white&color=3670A0)
 ![](https://img.shields.io/badge/MATLAB-informational?style=flat&logo=Octave&logoColor=white&color=orange)
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c&logoColor=white&color=0047AB)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
@@ -106,7 +107,7 @@
 ![](https://img.shields.io/badge/Game_Engine-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Developer-PyGame-informational?style=flat&logo=nintendo-switch&logoColor=white&color=32CD32)
 
-<h3>🎮 My Game</h3>
+<h3>🎮 My Game (click)</h3>
 
 <a href="https://shubham-verma-sv.itch.io/level-industry-by-sv-games">
 
