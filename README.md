@@ -123,7 +123,7 @@
 <h3> 📈 GitHub Stats</h3>
 
 <h3>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Poseidon-SV&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Poseidon-SV&show_icons=true&count_private=true&theme=transparent" width="450"></a>
 </h3>
 
 <!-- ### 🏆 GitHub Trophies
@@ -132,4 +132,4 @@
 
 <!-- <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&hide=tex%2B%2B,tex&layout=compact&theme=dark'/>
 <br> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&layout=compact&theme=dark)](https://github.com/Poseidon-SV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon-SV&hide=html,cmake&langs_count=10&layout=donut-vertical&theme=transparent)](https://github.com/Poseidon-SV/github-readme-stats)
